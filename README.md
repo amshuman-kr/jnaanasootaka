@@ -21,6 +21,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
 
+- [ಸರಸ್ವತೀ ತಾತ್ಪರ್ಯ](content/ಸರಸ್ವತೀ%20ತಾತ್ಪರ್ಯ.md)
 - [ಶಬ್ದವೇದಿಯ ತಾತ್ಪರ್ಯ](content/ಶಬ್ದವೇದಿಯ%20ತಾತ್ಪರ್ಯ.md)
 - [ಕ್ಷಮಾಪಣೆ](content/ಕ್ಷಮಾಪಣೆ.md)
 - [ಶಬ್ದವೇದಿ](content/ಶಬ್ದವೇದಿ.md)
@@ -31,6 +32,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
 
+- [ಸರಸ್ವತೀ ತಾತ್ಪರ್ಯ](content/ಸರಸ್ವತೀ%20ತಾತ್ಪರ್ಯ.md)
 - [ಶಬ್ದವೇದಿಯ ತಾತ್ಪರ್ಯ](content/ಶಬ್ದವೇದಿಯ%20ತಾತ್ಪರ್ಯ.md)
 - [ಕ್ಷಮಾಪಣೆ](content/ಕ್ಷಮಾಪಣೆ.md)
 - [ಶಬ್ದವೇದಿ](content/ಶಬ್ದವೇದಿ.md)
