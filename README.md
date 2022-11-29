@@ -10,5 +10,5 @@ A blog with articles on music, poetry, science, philosophy and linguistics. The 
 
 Unless otherwise mentioned, all the articles and materials published in this repository are avaiable under [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](LICENSE) and [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). Since there is some original research and content in most of the articles and materials published here, please reach out to inform in the issues in this repository, if you want to quote or use this or any part of this work. Please feel free to create a new issue if necessary.
 
-![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png")
+![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
