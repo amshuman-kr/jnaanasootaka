@@ -21,11 +21,11 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
 
-- [ಜ್ಞಾನಸೂತಕ.md](content/ಜ್ಞಾನಸೂತಕ)
+- [ಜ್ಞಾನಸೂತಕ](content/ಜ್ಞಾನಸೂತಕ.md)
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
 
-- [ಜ್ಞಾನಸೂತಕ.md](content/ಜ್ಞಾನಸೂತಕ)
+- [ಜ್ಞಾನಸೂತಕ](content/ಜ್ಞಾನಸೂತಕ.md)
 
 ## ಸಹಯೋಗ / Contributing
 
