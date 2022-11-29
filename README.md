@@ -17,6 +17,10 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 [![GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+## ಲೇಖನ, ವಿಷಯಗಳು (ಅವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ) / Articles and Materials (sorted by modification time)
+
+- [ಜ್ಞಾನಸೂತಕ.md](content/ಜ್ಞಾನಸೂತಕ)
+
 ## ಸಹಯೋಗ / Contributing
 
 ಇಲ್ಲಿರುವ ಎಲ್ಲ ಲೇಖನ, ವಿಷಯಗಳೂ ಮುಕ್ತವಾಗಿಯೇ ಇರುವುದರಿಂದ (open source), ಚರ್ಚೆ, ಟೀಕೆ, ತಿದ್ದುಪಡಿ, ಪೂರಕ ವಿಚಾರಗಳು, ವಿಚಾರಾಂಶಗಳ ಕೊಡುಗೆ ಇತ್ಯಾದಿ ಸಹಯೋಗಕ್ಕೆ ಎಂದೂ ಬಾಗಿಲು ತೆರೆದೇ ಇರುತ್ತದೆ.
