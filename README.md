@@ -21,17 +21,19 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
 
+- [Fractal Fallibilism](content/Fractal%20Fallibilism.md)
+- [ಸಂಧ್ಯಾವಂದನೆ](content/ಸಂಧ್ಯಾವಂದನೆ.md)
 - [ಸರಸ್ವತೀ ತಾತ್ಪರ್ಯ](content/ಸರಸ್ವತೀ%20ತಾತ್ಪರ್ಯ.md)
 - [ಶಬ್ದವೇದಿಯ ತಾತ್ಪರ್ಯ](content/ಶಬ್ದವೇದಿಯ%20ತಾತ್ಪರ್ಯ.md)
 - [ಕ್ಷಮಾಪಣೆ](content/ಕ್ಷಮಾಪಣೆ.md)
 - [ಶಬ್ದವೇದಿ](content/ಶಬ್ದವೇದಿ.md)
 - [ಅವತಾರ](content/ಅವತಾರ.md)
 - [ಸರಸ್ವತೀ](content/ಸರಸ್ವತೀ.md)
-- [ಸಂಧ್ಯಾವಂದನೆ](content/ಸಂಧ್ಯಾವಂದನೆ.md)
 - [ಜ್ಞಾನಸೂತಕ](content/ಜ್ಞಾನಸೂತಕ.md)
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
 
+- [Fractal Fallibilism](content/Fractal%20Fallibilism.md)
 - [ಸರಸ್ವತೀ ತಾತ್ಪರ್ಯ](content/ಸರಸ್ವತೀ%20ತಾತ್ಪರ್ಯ.md)
 - [ಶಬ್ದವೇದಿಯ ತಾತ್ಪರ್ಯ](content/ಶಬ್ದವೇದಿಯ%20ತಾತ್ಪರ್ಯ.md)
 - [ಕ್ಷಮಾಪಣೆ](content/ಕ್ಷಮಾಪಣೆ.md)
