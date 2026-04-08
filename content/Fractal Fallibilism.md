@@ -47,7 +47,7 @@ This article on [Popperian](https://en.wikipedia.org/wiki/Karl_Popper) [epistemo
 
 - It clarifies and contextualizes the scope of the epistemology of fallibilism in its expanse (e.g. how knowledge is aquired and improved in its most general sense) and in its limitations (e.x. the details of how conjectures and refutations actually happens in humans as discussed in the article, fallibilism of fallibilism itself etc.).
 - It further argues why that particular approach to scoping makes sense and facilitates further progress.
-- Finally, it shows why some of the remedies (e.g. sākṣī) suggested to the limitations of fallibilism are less than optimal (e.g. they either do not solve the problem or not as sound as might appear to be).
+- Finally, it shows why some of the remedies (e.g. sākṣī) suggested to the limitations of fallibilism are less than optimal (e.g. they either do not solve the problem or are not as sound as might appear to be).
 
 ## Introduction
 
