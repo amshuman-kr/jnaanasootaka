@@ -45,10 +45,11 @@ This article is published in English originally and has not been translated to K
 ## Abstract
 
 This article on [Popperian](https://en.wikipedia.org/wiki/Karl_Popper) [epistemology](https://en.wikipedia.org/wiki/Epistemology) of [fallibilism](https://en.wikipedia.org/wiki/Fallibilism) is largely inspired by the article [_Sākṣī and the epistemic grounding of knowledge_](https://www.brhat.in/dhiti/sak-i-and-the-epistemic-grounding-of-knowledge) by [Ajey Pai](https://www.brhat.in/dhiti?author=ajey-pai) published in the portal [Bṛhat](https://www.brhat.in).
-It clarifies and contextualizes the scope of the epistemology of fallibilism in its expanse (e.g. how knowledge is aquired and improved in its most general sense) and in its limitations (e.x. the details of how conjectures and refutations actually happens in humans, as discussed in the article).
-It further argues why that particular approach to scoping makes sense and facilitates further progress.
-It also shows why some of the remedies (e.g. sākṣī) suggested to the limitations of fallibilism are less than optimal (e.g. they either do not solve the problem or not as sound as might appear to be).
-It goes on to discuss other limitations of fallibilism, including it being fallible in itself, making it, in a sense, [fractal](https://en.wikipedia.org/wiki/Fractal).
+
+- It clarifies and contextualizes the scope of the epistemology of fallibilism in its expanse (e.g. how knowledge is aquired and improved in its most general sense) and in its limitations (e.x. the details of how conjectures and refutations actually happens in humans, as discussed in the article).
+- It further argues why that particular approach to scoping makes sense and facilitates further progress.
+- It also shows why some of the remedies (e.g. sākṣī) suggested to the limitations of fallibilism are less than optimal (e.g. they either do not solve the problem or not as sound as might appear to be).
+- It goes on to discuss other limitations of fallibilism, including it being fallible in itself, making it, in a sense, [fractal](https://en.wikipedia.org/wiki/Fractal).
 
 ## Introduction
 
