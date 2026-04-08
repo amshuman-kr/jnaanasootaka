@@ -136,7 +136,7 @@ This is demonstrably false. Popperian epistemology explicitly calls this out in 
 
 All the quotations in this section are from the conclusion of this article.
 
-## 1. The Role Of Error In Epistemology
+## 1. The Role of Error in Epistemology
 
 TODO
 
@@ -144,11 +144,11 @@ TODO
 
 TODO
 
-## 3. Knowledge With Or Without A Knowing Subject
+## 3. Knowledge with or without a Knowing Subject
 
 TODO
 
-## Concepts In Dvaita Vedānta's Explanation For Epistemology In The Conscious Context
+## Concepts in Dvaita Vedānta's Explanation for Epistemology in the Conscious Context
 
 TODO
 
@@ -160,7 +160,7 @@ TODO
 
 > Knowledge is the awareness of factual propositions that describe the real world.
 
-#### Means Of Knowledge
+#### Means of Knowledge
 
 > A means of knowledge refers to the mode of receiving data that can be processed to derive meaning.
 
@@ -189,23 +189,23 @@ TODO
 
 > ... the subject of cognition. ... ‘within whom the cognition integrates as knowledge’.
 
-### Mechanism Of Knowledge Generation
+### Mechanism of Knowledge Generation
 
 TODO
 
-### The Witnessing Consciousness As The Subject Of Cognition
+### The Witnessing Consciousness as the Subject of Cognition
 
 TODO
 
-### Fallibilism And The Need For A Witness
+### Fallibilism and the Need for a Witness
 
 TODO
 
-### Intrinsic Validity And The Role Of Cognition
+### Intrinsic Validity and the Role of Cognition
 
 TODO
 
-## 4. Critical Analysis Of Dvaita Vedānta's Explanation For Epistemology In The Conscious Context
+## 4. Critical Analysis of Dvaita Vedānta's Explanation for Epistemology in the Conscious Context
 
 TODO
 
