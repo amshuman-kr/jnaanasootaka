@@ -28,8 +28,7 @@ This article is published in English originally and has not been translated to K
   - [The Witnessing Consciousness As The Subject Of Cognition](#the-witnessing-consciousness-as-the-subject-of-cognition)
   - [Fallibilism And The Need For A Witness](#fallibilism-and-the-need-for-a-witness)
   - [Intrinsic Validity And The Role Of Cognition](#intrinsic-validity-and-the-role-of-cognition)
-- [4. Coherence of Dvaita Vedānta's Explanation For Epistemology In The Conscious Context](#4-coherence-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context)
-- [5. Assumptions And Assertions Implicit And Explicit In Dvaita Vedānta's Explanation For Epistemology In The Conscious Context](#5-assumptions-and-assertions-implicit-and-explicit-in-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context)
+- [4. Critical Analysis Of Dvaita Vedānta's Explanation For Epistemology In The Conscious Context](#4-critical-analysis-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context)
 - [Conclusion](#conclusion)
 - [References](#references)
 - [Revisions](#revisions)
@@ -46,7 +45,7 @@ This article is published in English originally and has not been translated to K
 
 This article on [Popperian](https://en.wikipedia.org/wiki/Karl_Popper) [epistemology](https://en.wikipedia.org/wiki/Epistemology) of [fallibilism](https://en.wikipedia.org/wiki/Fallibilism) is largely inspired by the article [_Sākṣī and the epistemic grounding of knowledge_](https://www.brhat.in/dhiti/sak-i-and-the-epistemic-grounding-of-knowledge) by [Ajey Pai](https://www.brhat.in/dhiti?author=ajey-pai) published in the portal [Bṛhat](https://www.brhat.in).
 
-- It clarifies and contextualizes the scope of the epistemology of fallibilism in its expanse (e.g. how knowledge is aquired and improved in its most general sense) and in its limitations (e.x. the details of how conjectures and refutations actually happens in humans, as discussed in the article).
+- It clarifies and contextualizes the scope of the epistemology of fallibilism in its expanse (e.g. how knowledge is aquired and improved in its most general sense) and in its limitations (e.x. the details of how conjectures and refutations actually happens in humans as discussed in the article, fallibilism of fallibilism itself etc.).
 - It further argues why that particular approach to scoping makes sense and facilitates further progress.
 - It also shows why some of the remedies (e.g. sākṣī) suggested to the limitations of fallibilism are less than optimal (e.g. they either do not solve the problem or not as sound as might appear to be).
 - It goes on to discuss other limitations of fallibilism, including it being fallible in itself, making it, in a sense, [fractal](https://en.wikipedia.org/wiki/Fractal).
@@ -83,7 +82,7 @@ In fact, it posits that such infrastructure would inevitably be fallible and pro
 Such a mechanism need not lead to [infinite regress](https://en.wikipedia.org/wiki/Infinite_regress).
 
 Furthermore, fallibilism is incomplete in a completely different sense that it is fallible in itself (apart from the fallibility of the details of particular mechanisms that contribute to it).
-This sort fractal nature of fallibilisim, far from invalidating it, is at the heart of making it the kind of powerful solution to the problems at the heart of the necessary aspects of epistemology, viz.,
+This kind of [fractal](https://en.wikipedia.org/wiki/Fractal) nature of fallibilisim, far from invalidating it, is at the heart of making it the kind of powerful solution to the problems at the heart of the necessary aspects of epistemology, viz.,
 that a viable epistemology must not only explain how and why knowledge can be aquired and improved upon,
 but also how it may fail to be aquired or improved upon.
 Many non-fallibilistic solutions fail to solve both the sides of this problem.
@@ -106,19 +105,19 @@ The conclusion proposes that Dvaita vedānta completes the incompleteness of fal
 > Dvaita vedānta supplies what fallibilism omits.
 > By distinguishing between the means of knowledge, the computational formation of knowledge-episodes, the revelatory event of cognition, and the witnessing consciousness that receives and integrates all of it, it identifies the structure that any theory of epistemic revision must presuppose.
 
-There are a few separate aspects of this to be explored.
+There are a couple of aspects of this to be explored.
 
 1. Dvaita vedānta addresses epistemology in the conscious cognitive context, but not in the non-conscious context (without a knowing subject).
 This is explored in the [third](#3-knowledge-with-or-without-a-knowing-subject) thread mentioned above.
 1. Is Dvaita vedānta's explanation coherent in itself?
-1. Reasons to doubt the correctness of the assumptions and assertions implicit and explicit in Dvaita vedānta's explanation?
+1. How well do the assumptions and assertions implicit and explicit in Dvaita vedānta's explanation survive scrutiny?
 
 For example,
 > The sākṣī is not a retreat into dogmatism. It does not place any content beyond criticism.
 
-Can sākṣī itself and its role and status be subject to criticism?
+Can sākṣī itself may or may not be accessible to critical scrutiny, but can the concept of sākṣī and its role and status in epistemology be subject to criticism?
 
-These will be the [fourth](#4-coherence-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context) and [fifth](#5-assumptions-and-assertions-implicit-and-explicit-in-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context) threads explored.
+These will be the [fourth](#4-critical-analysis-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context) thread explored.
 
 > It[sākṣī] simply identifies the condition without which criticism itself has no subject and correction has no meaning (the condition that Popper's epistemology deliberately set aside and never recovered...).
 
@@ -129,9 +128,9 @@ Why setting it aside and leaving its recovery for future progress is a productiv
 
 This will be contextualised in the [third](#3-knowledge-with-or-without-a-knowing-subject) thread mentioned above.
 
-> It just has not said so[operating in the context of cognitive infrastructure].
+> It just has not said so[to be operating in the context of cognitive infrastructure].
 
-This is demostrably false. Popperian epistemology explicitly calls this out in the context of growth of knowledge in humans. This is discussed in the [second](#2-fallibilism-of-fallibilism) and [third](#3-knowledge-with-or-without-a-knowing-subject) threads mentione above.
+This is demonstrably false. Popperian epistemology explicitly calls this out in the context of growth of knowledge in humans. This is discussed in the [second](#2-fallibilism-of-fallibilism) and [third](#3-knowledge-with-or-without-a-knowing-subject) threads mentioned above.
 
 ### Note
 
@@ -206,11 +205,7 @@ TODO
 
 TODO
 
-## 4. Coherence of Dvaita Vedānta's Explanation For Epistemology In The Conscious Context
-
-TODO
-
-## 5. Assumptions And Assertions Implicit And Explicit In Dvaita Vedānta's Explanation For Epistemology In The Conscious Context
+## 4. Critical Analysis Of Dvaita Vedānta's Explanation For Epistemology In The Conscious Context
 
 TODO
 
