@@ -148,7 +148,7 @@ Finally, the [last](#6-need-for-further-work-in-neurology-and-psychology-of-fall
 
 ### Note
 
-All the quotations in this section are from the conclusion of this article.
+All the quotations in this section are from the conclusion of [this article](https://www.brhat.in/dhiti/sak-i-and-the-epistemic-grounding-of-knowledge).
 
 ## 1. The Role of Error in Epistemology
 
