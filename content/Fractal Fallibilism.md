@@ -127,7 +127,7 @@ This is explored in the [fourth](#4-knowledge-with-or-without-a-knowing-subject)
 For example,
 > The sākṣī is not a retreat into dogmatism. It does not place any content beyond criticism.
 
-Can sākṣī itself may or may not be accessible to critical scrutiny, but can the concept of sākṣī and its role and status in epistemology be subject to criticism?
+Sākṣī itself may or may not be accessible to critical scrutiny, but can the concept of sākṣī and its role and status in epistemology be subject to criticism?
 
 These will be the [fifth](#5-critical-analysis-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context) thread explored.
 
