@@ -6,7 +6,6 @@ This article is published in English originally and has not been translated to K
 
 ## Content
 
-
 - [Fractal Fallibilism](#fractal-fallibilism)
 - [ಅನುವಾದದ ಕುರಿತು / About Translation](#ಅನುವಾದದ-ಕುರಿತು--about-translation)
 - [Content](#content)
@@ -16,6 +15,7 @@ This article is published in English originally and has not been translated to K
 - [Introduction](#introduction)
   - [Note](#note)
 - [1. The Role of Error in Epistemology](#1-the-role-of-error-in-epistemology)
+- [2. The Central Role of Problem in Epistemology](#2-the-central-role-of-problem-in-epistemology)
 - [3. Fallibilism of Fallibilism](#3-fallibilism-of-fallibilism)
 - [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject)
 - [Concepts in Dvaita Vedānta's Explanation for Epistemology in the Conscious Context](#concepts-in-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context)
@@ -30,6 +30,7 @@ This article is published in English originally and has not been translated to K
   - [Fallibilism and the Need for a Witness](#fallibilism-and-the-need-for-a-witness)
   - [Intrinsic Validity and the Role of Cognition](#intrinsic-validity-and-the-role-of-cognition)
 - [5. Critical Analysis of Dvaita Vedānta's Explanation for Epistemology in the Conscious Context](#5-critical-analysis-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context)
+- [6. Need for Further Work in Neurology and Psychology of Fallibilistic Epistemology in Humans](#6-need-for-further-work-in-neurology-and-psychology-of-fallibilistic-epistemology-in-humans)
 - [Conclusion](#conclusion)
 - [References](#references)
 - [Revisions](#revisions)
@@ -72,7 +73,7 @@ This will be the [first](#1-the-role-of-error-in-epistemology) thread explored.
 While the concept of error acts as a backdrop for the epistemology of fallibilism,
 the concept of _problem_ plays a central role.
 While growth of knowledge is a continual persuite of overcoming error, it always and only ever happens in the context of a problem.
-This will be the [second]() thread explored.
+This will be the [second](#2-the-central-role-of-problem-in-epistemology) thread explored.
 
 The conclusion proceeds to mention the main short-coming of fallibilism.
 > But fallibilism is incomplete.
@@ -143,7 +144,7 @@ This will be contextualised in the [fourth](#4-knowledge-with-or-without-a-knowi
 
 This is demonstrably false. Popperian epistemology explicitly calls this out in the context of growth of knowledge in humans. This is discussed in the [third](#3-fallibilism-of-fallibilism) and [fourth](#4-knowledge-with-or-without-a-knowing-subject) threads mentioned above.
 
-Finally, the [last]() thread will explore what daunting future work is required in neurology and psychology to fill the gaps in our understanding of how conjectures and their criticisms arise and play out in the field of the human mind.
+Finally, the [last](#6-need-for-further-work-in-neurology-and-psychology-of-fallibilistic-epistemology-in-humans) thread will explore what daunting future work is required in neurology and psychology to fill the gaps in our understanding of how conjectures and their criticisms arise and play out in the field of the human mind.
 
 ### Note
 
@@ -153,7 +154,7 @@ All the quotations in this section are from the conclusion of this article.
 
 TODO
 
-### 2. The Central Role of Problem in Epistemology
+## 2. The Central Role of Problem in Epistemology
 
 TODO
 
