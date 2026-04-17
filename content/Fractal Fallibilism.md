@@ -280,7 +280,7 @@ The quote "[_all observation is theory-laden_]()" is a famous one in Popperian e
 >
 > These operations presuppose the witness.
 
-Note: The four conditiosn for fallibilism to function are indeed true.
+Note: The four conditions for fallibilism to function are indeed true.
 But the last assertion that they presuppose a witness is questionable;
 
 > Popper replaces the justificationist regress with a critical regress ...
@@ -301,7 +301,7 @@ Also, a fallible witness does not necessarily need further witness to detect err
 It can detect those itself; only fallibly.
 This is not necessarily an infinite regress.
 Relevance of an error to a given problem is a matter of further conjecture.
-If it is irrelevant relevant, so is its correction.
+If it is irrelevant, so is its correction.
 Only if it is relevant, is its correction relevant.
 
 > Disclosure is not a claim since it cannot be false in the way a proposition can be false.
