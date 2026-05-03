@@ -232,7 +232,7 @@ Please note that the above paragraph uses the term _knowledge_ in stead of _trut
 This is deliberate, because, we might acquire knowledge that might have some truth (however riddled with error),
 but we may never acquire truth (free of error).
 
-A naive understanding of such fallibility might indicate that such a position is ultimately a pessimistic position;
+A naive understanding of such fallibility might indicate that such a position is ultimately pessimistic;
 that it denies the possibility of acquiring true knowledge; knowledge free or error.
 But acquiring knowledge free of error is not just an impossible standard to achieve;
 it is an unnecessary, even undesirable, standard.
@@ -271,9 +271,13 @@ the error in the knowledge, our recognition of it and the process of its acquisi
 Regardless of the truth or viability of the idea of infallible access to error-free truth,
 it is inferior for a second-order socio-ethical reason.
 Once we admit to the possibility of infallible access to error-free truth,
-we must admit to the possibility of some of us gaining such access, or at least, thinking that they have such access.
-By definition (of error-free and infallible knowledge), there is no rational recourse, if someone disputes the trueness of such truth or our access to it apart from asserting the folly of such opposition.
-There is no progress possible other than via some equally mystical and impossible intervention of infallibility.
+we must admit to the possibility of some of us gaining such access, or at least, thinking that they have it.
+If someone disputes the trueness of such truth or our access to it,
+there is no rational recourse, by definition (of error-free and infallible knowledge), apart from asserting the folly of such opposition.
+No resolution is possible other than blatant use of force or violance,
+unless we are rescued by some equally mystical and impossible intervention of infallibility.
+Such an intervention of infallibility would hardly be better than violance;
+conceptually, it would indeed be violance to reason.
 
 ## 2. The Central Role of Problem in Epistemology
 
