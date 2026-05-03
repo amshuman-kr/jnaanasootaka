@@ -156,17 +156,17 @@ All the quotations in this section are from the conclusion of [this article](htt
 
 Fallibilism is famous for pointing out that all knowledge is conjectural and prone to be riddled with error;
 that no knowledge (whatever be its source) is above rational criticism;
-that knowledge is acquired and improved upon, not by the infallible justification for it;
-but by criticizing and correcting the errors in it.
+that knowledge is acquired and improved upon, not by the infallible justification;
+but by criticism and error-correction.
 
 This role of error in epistemological fallibilism is relatively well known.
-It is not as well known that error plays a [deeper](#error-and-the-possibility-of-knowledge) and [more pervasive](#the-doctrine-of-manifest-truth-and-conspiracy-theories-of-ignorance) role in fallibilism.
+However, it is not as well known that error plays a [deeper](#error-and-the-possibility-of-knowledge) and [more pervasive](#the-doctrine-of-manifest-truth-and-conspiracy-theories-of-ignorance) role in fallibilism.
 
 ### The Doctrine of Manifest Truth and Conspiracy Theories of Ignorance
 
 Many approaches to epistemology carry an inherent assumption that truth is manifest;
 that we can see truth for what it is, if and when it is cleared off whatever that was clouding it.
-This attitude seems to be behind the common refrains like "I cannot tell you what it is but I will know when I see it".
+This attitude seems to be behind the common refrains like "I cannot tell you what it is, but I will know when I see it".
 
 While such an attitude can indeed be useful and even healthy in our pursuit of knowledge (clearly, a view that we cannot recognize truth when we see it is unhelpful in such a pursuit),
 some approaches to epistemology tend to take things further in two different directions.
@@ -175,11 +175,12 @@ some approaches to epistemology tend to take things further in two different dir
 1. That truth so recognized, might be free of error.
 
 The idea that truth is the default state of things is what Karl Popper calls _the doctrine of manifest truth_.
-It has had a long history and has its place in both religios and non-religious philosophies.
-Such a position then demands an explanation for the actual state of things being riddled with error.
+It has a long history in both religious and non-religious philosophies.
+Such a position then demands an answer for the question of why, in actuality, things appear to be riddled with error.
 Why do we not have the knowledge of it, if truth is indeed manifest?
 There have been many attempted answers to that question and they mostly invoke some form of corruption;
-some corruption in the world, in the culture, in us humans etc., that is clouding our view of the truth.
+in the world, in the culture, in us humans etc.
+I.e. some corruption that is clouding our view of the truth.
 This is what Karl Popper calls _conspiracy theories of ignorance_.
 Such corruptions are the conspiracies that are preventing us from seeing the truth for what it actually is.
 With effort, such corruptions can be eliminated; thus laying the truth bare for us to recognize.
@@ -192,14 +193,14 @@ it is just the default state of things.
 To explain the actual acquisition of knowledge, fallibilism does accept that truth can indeed be recognized, when stumbled upon;
 but it is never recognized to be free of error.
 The _process_ of stumbling upon truth, the _recognition_ that it is true, and most importantly, the _trueness_ (verity?) of it, are all prone to error.
-Such recognized truth (riddled with error) may be called a _conjecture_.
+Such recognized truth (yet riddled with error) may be called a _conjecture_.
 A conjecture may contain some truth, but it may never be completely true in the sense of being free of error.
 As an extreme case, we may concede the possibility that some conjectures might indeed be fully true and completely free of error;
-but that in such a case, it cannot be recongnized and known to be so, infallibly.
+but it cannot be recongnized and known to be so, infallibly.
 I.e. if we encounter a conjecture that is completely error-free truth, we cannot know it to be so without error.
 
-We then proceed to criticize all these aspects (process, recognition, trueness etc.) for all possible errors that we can think of to the best of our abilities.
-In the process, if we find some crucial error, we humbly submit that what once looked like truth has turned out to have critical errors in it.
+We then proceed to criticize all these aspects (process, recognition, trueness etc.), for all possible errors that we can think of, to the best of our abilities.
+In the process, if we find some crucial error, we humbly submit that, what once looked like truth, has turned out to have critical errors in it and proceed to look for better conjectures that do not have those errors.
 If we cannot find any significant errors even after trying to criticize to the best of our abilities,
 we provisionally consider that what we recognized as truth has advanced our knowledge,
 while being open for the possibility that future knowledge or criticism might overturn such consideration.
@@ -216,18 +217,18 @@ But instead of being a pessimistic view of epistemology, it is in fact a [deeply
 
 As discussed [above](#the-doctrine-of-manifest-truth-and-conspiracy-theories-of-ignorance), fallibilism does not deny the possibility of recognizing truth.
 In this, it is optimistic in the same sense that the doctorine of manifest truth is optimistic;
-in the sense that the opposite position that truth cannot be recognized (even partially) is a pessimistic view,
-that denies the possibility of acquiring knowledge.
+in the sense that the opposite position of truth being unrecognizable (even partially) is a pessimistic view.
+Denying the possibility of recognizing truth denies the possibility of acquiring knowledge.
 
-However, it posits the fallibility at every step of aquiring knowledge.
-the knowledge we aquire might contain error;
+However, fallibilism posits fallibility at every step of aquiring knowledge.
+The knowledge we aquire might contain error;
 our recognition of it as knowledge might itself be erronous;
-our criticism of it with a view to eleminate error is itself be fallible.
+our criticism of it with a view to eleminate error is itself fallible.
 However much progress we make with correcting errors in any given piece of knowledge,
 we can never ever be fully satisfied that we have eliminated all error in it.
 
 Please note that the above paragraph uses the term _knowledge_ in stead of _truth_.
-This deliberate, because, we might acquire knowledge that might have some truth (however riddled with error),
+This is deliberate, because, we might acquire knowledge that might have some truth (however riddled with error),
 but we may never acquire truth (free of error).
 
 A naive understanding of such fallibility might indicate that such a position is ultimately a pessimistic position;
@@ -235,14 +236,14 @@ that it denies the possibility of acquiring true knowledge; knowledge free or er
 But acquiring knowledge free of error is not just an impossible standard to achieve;
 it is an unnecessary, even undesirable, standard.
 
-- _Impossible_, in the sense that lamenting that, all knowledge being fallible makes fallibilism a pessimistic epistemology is like lamenting that the concept of the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) makes the [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity) is a pessimistic theory.
-It makes the theory realistic as against what we might want it to be.
-- _Unnecessary_, because, as Karl Popper shows, fallible process of correcting errors in knowledge is enough to produce unlimited progress of knowledge acquisition and improvement;
-infallible access to truth (free of error) is not just unavailable; it is wholly unnecessary to make epistemological progress.
+- _Impossible_, in the sense that, lamenting that all knowledge being fallible makes fallibilism a pessimistic epistemology is like lamenting that the concept of the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) makes the [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity) a pessimistic theory.
+It merely makes the theory realistic as against what we might want it to be.
+- _Unnecessary_, because, as Karl Popper shows, fallible process of correcting errors in knowledge is enough to produce unlimited progress of knowledge acquisition and improvement.
+Infallible access to error-free truth is not just unavailable; it is wholly unnecessary to make epistemological progress.
 
-That infallible access to truth (free of error) is _undesirable_ is counter-intuitive.
-The opposite view that infallible access to truth seems eminently desirable.
-But idea of infallible access to error-free truth leads to one of two possibilities regarding the limits to such access and the scope of such truths.
+That infallible access to error-free truth is _undesirable_ is counter-intuitive.
+The opposite idea of infallible access to truth seems eminently desirable.
+But idea of infallible access to error-free truth leads to one of two possibilities, regarding the limits to such access and the scope of such truths.
 
 1. There are limits to the scope of or access to the truth.
 1. There are no limits to the scope of or access to the truth.
@@ -250,14 +251,16 @@ But idea of infallible access to error-free truth leads to one of two possibilit
 If there are limits to the scope of and access to the truth, such limits will require further explanation
 (if such an explanation is within the limits of accessibility would be an interesting question).
 But whatever the explanation, the existence of such limits means that there is no more epistemological progress possible if and when we reach those limits.
-This is a deeply pessimistic view of epistemology; hardly better than the view that truth cannot be recognized and knowledge is impossible to be acquired and improved upon.
+This is a deeply pessimistic view of epistemology; hardly better than the view that truth is unrecognizable and knowledge is impossible to be acquired and improved upon.
 
-If there are no limits to the scope of or access to the truth, then we may conceive of not just the _ultimate truth_ (the truth about everything), but also the possibility of acquiring it.
+On the other hand, if there are no limits to the scope of or access to the truth,
+then we may conceive of not just the _ultimate truth_ (the truth about everything),
+but also the possibility of acquiring it.
 This may be considered the optimistic extreme; the most desirable outcome.
 However, it may be considered an equally pessimistic extreme.
 The concept of ultimate truth may itself be considered a limit to the epistemological progress.
-The ultimate truth once acquired, must necessarily include the truth about the infallibility of our access to it.
-This a kind of circular reasoning that mirrors the theological explanation of _God as the ultimate or uncaused cause_.
+Besides, the ultimate truth once acquired, must necessarily include the truth about the infallibility of our access to it.
+The the circularity in this kind of reasoning mirrors the theological explanation of _God as the ultimate or uncaused cause_.
 Both are an abandonment of rationality and deeply unsatisfactory.
 
 So, eitherway, the idea of infallible access to error-free truth is deeply undesirable and pessimistic.
