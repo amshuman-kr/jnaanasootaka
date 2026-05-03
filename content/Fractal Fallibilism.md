@@ -238,7 +238,7 @@ But acquiring knowledge free of error is not just an impossible standard to achi
 it is an unnecessary, even undesirable, standard.
 
 - _Impossible_, in the sense that, lamenting that all knowledge being fallible makes fallibilism a pessimistic epistemology is like lamenting that the concept of the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) makes the [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity) a pessimistic theory.
-It merely makes the theory realistic as against what we might want it to be.
+It merely makes the theory realistic as against something unrealistic that what we might want it to be.
 - _Unnecessary_, because, as Karl Popper shows, fallible process of correcting errors in knowledge is enough to produce unlimited progress of knowledge acquisition and improvement.
 Infallible access to error-free truth is not just unavailable; it is wholly unnecessary to make epistemological progress.
 
@@ -267,6 +267,13 @@ Both are an abandonment of rationality and deeply unsatisfactory.
 So, eitherway, the idea of infallible access to error-free truth is deeply undesirable and pessimistic.
 For the same reason, the opposite view of fallible access to error-ridden knowledge is deeply optimistic;
 the error in the knowledge, our recognition of it and the process of its acquisition is what enables the possibility (but never a guarantee) of unlimited growth of knowledge.
+
+Regardless of the truth or viability of the idea of infallible access to error-free truth,
+it is inferior for a second-order socio-ethical reason.
+Once we admit to the possibility of infallible access to error-free truth,
+we must admit to the possibility of some of us gaining such access, or at least, thinking that they have such access.
+By definition (of error-free and infallible knowledge), there is no rational recourse, if someone disputes the trueness of such truth or our access to it apart from asserting the folly of such opposition.
+There is no progress possible other than via some equally mystical and impossible intervention of infallibility.
 
 ## 2. The Central Role of Problem in Epistemology
 
