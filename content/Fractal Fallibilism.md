@@ -15,6 +15,8 @@ This article is published in English originally and has not been translated to K
 - [Introduction](#introduction)
   - [Note](#note)
 - [1. The Role of Error in Epistemology](#1-the-role-of-error-in-epistemology)
+  - [The Doctrine of Manifest Truth and Conspiracy Theories of Ignorance](#the-doctrine-of-manifest-truth-and-conspiracy-theories-of-ignorance)
+  - [Error and The Possibility of Knowledge](#error-and-the-possibility-of-knowledge)
 - [2. The Central Role of Problem in Epistemology](#2-the-central-role-of-problem-in-epistemology)
 - [3. Fallibilism of Fallibilism](#3-fallibilism-of-fallibilism)
 - [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject)
@@ -65,8 +67,8 @@ In its conclusion, there is acknowledgement of its strengths.
 Fallibilism is indeed a clear advance in epistemology.
 However, "_error being not a failure but the engine of progress_" captures only one aspect of what role error plays in falliblism.
 Fallibilism inverts the assumption implicit in many non-fallibilistic approaches to epistemology, that truth is naturally obvious, with error needing explanation.
-Popper has called this [the manifest truth and conspiracy theory of ignorance]().
-In contrast to this, fallibilism posits that error is the natural state of affairs and it is the aquisition of what meagre knowledge of truth (however fallibly) that requires explanation.
+Popper has called this [the doctrine of manifest truth and conspiracy theories of ignorance](https://thelivinglib.org/on-conspiracy-theories-of-ignorance/).
+In contrast, fallibilism posits that error is the natural state of affairs and it is the aquisition of what meagre knowledge of truth (however fallibly) that requires explanation.
 This is a shift in mindset that has deep implications.
 This will be the [first](#1-the-role-of-error-in-epistemology) thread explored.
 
@@ -151,6 +153,66 @@ Finally, the [last](#6-need-for-further-work-in-neurology-and-psychology-of-fall
 All the quotations in this section are from the conclusion of [this article](https://www.brhat.in/dhiti/sak-i-and-the-epistemic-grounding-of-knowledge).
 
 ## 1. The Role of Error in Epistemology
+
+Fallibilism is famous for pointing out that all knowledge is conjectural and prone to be riddled with error;
+that no knowledge (whatever be its source) is above rational criticism;
+that knowledge is acquired and improved upon, not by the infallible justification for it;
+but by criticizing and correcting the errors in it.
+
+This role of error in epistemological fallibilism is relatively well known.
+It is not as well known that error plays a [deeper](#error-and-the-possibility-of-knowledge) and [more pervasive](#the-doctrine-of-manifest-truth-and-conspiracy-theories-of-ignorance) role in fallibilism.
+
+### The Doctrine of Manifest Truth and Conspiracy Theories of Ignorance
+
+Many approaches to epistemology carry an inherent assumption that truth is manifest;
+that we can see truth for what it is, if and when it is cleared off whatever that was clouding it.
+This attitude seems to be behind the common refrains like "I cannot tell you what it is but I will know when I see it".
+
+While such an attitude can indeed be useful and even healthy in our pursuit of knowledge (clearly, a view that we cannot recognize truth when we see it is unhelpful in such a pursuit),
+some approaches to epistemology tend to take things further in two different directions.
+
+1. That truth is the default (or natural) state of things.
+1. That truth so recognized, might be free of error.
+
+The idea that truth is the default state of things is what Karl Popper calls _the doctrine of manifest truth_.
+It has had a long history and has its place in both religios and non-religious philosophies.
+Such a position then demands an explanation for the actual state of things being riddled with error.
+Why do we not have the knowledge of it, if truth is indeed manifest?
+There have been many attempted answers to that question and they mostly invoke some form of corruption;
+some corruption in the world, in the culture, in us humans etc., that is clouding our view of the truth.
+This is what Karl Popper calls _conspiracy theories of ignorance_.
+Such corruptions are the conspiracies that are preventing us from seeing the truth for what it actually is.
+With effort, such corruptions can be eliminated; thus laying the truth bare for us to recognize.
+
+Popperian fallibilism inverts this idea.
+It posits that error is the default state of things, leaving actual acquisition of knowledge to be explained.
+In this view, ignorance requires no explanation (of the kind of conspiracies or any other kind);
+it is just the default state of things.
+
+To explain the actual acquisition of knowledge, fallibilism does accept that truth can indeed be recognized, when stumbled upon;
+but it is never recognized to be free of error.
+The _method_ of stumbling upon truth, the _recognition_ that it is true, and most importantly, the _trueness_ (verity?) of it, are all prone to error.
+Such recognized truth (riddled with error) may be called a _conjecture_.
+A conjecture may contain some truth, but it may never be completely true in the sense of being free of error.
+As an extreme case, we may concede the possibility that some conjectures might indeed be fully true and completely free of error;
+but that in such a case, it cannot be recongnized and known to be so, infallibly.
+I.e. if we encounter a conjecture that is completely error-free truth, we cannot know it to be so without error.
+
+We then proceed to criticize all these aspects (method, recogniton, trueness etc.) for all possible errors that we can think of to the best of our abilities.
+In the process, if we find some crucial error, we humbly submit that what once looked like truth has turned out to have critical errors in it.
+If we cannot find any significant errors even after trying to criticize to the best of our abilities,
+we provisionally consider that what we recognized as truth has advanced our knowledge,
+while being open for the possibility that future knowledge or criticism might overturn such consideration.
+
+The criticisms and their application to a conjecture are themselves inevitably fallible.
+But this does not necessarily lead to [infinite regress](#3-fallibilism-of-fallibilism).
+
+In this way, error plays a pervasive role in fallibilism.
+It is omnipresent and eternal.
+No amount of error correction will completely eradicate it.
+But instead of being a pessimistic view of epistemology, it is in fact a [deeply optimistic](#error-and-the-possibility-of-knowledge) view.
+
+### Error and The Possibility of Knowledge
 
 TODO
 
