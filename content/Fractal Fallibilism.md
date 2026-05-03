@@ -211,6 +211,7 @@ But this does not necessarily lead to [infinite regress](#3-fallibilism-of-falli
 In this way, error plays a pervasive role in fallibilism.
 It is omnipresent and eternal.
 No amount of error correction will completely eradicate it.
+Errors may be corrected and progress made, but only fallibly so.
 But instead of being a pessimistic view of epistemology, it is in fact a [deeply optimistic](#error-and-the-possibility-of-knowledge) view.
 
 ### Error and The Possibility of Knowledge
