@@ -264,6 +264,8 @@ The the circularity in this kind of reasoning mirrors the theological explanatio
 Both are an abandonment of rationality and deeply unsatisfactory.
 
 So, eitherway, the idea of infallible access to error-free truth is deeply undesirable and pessimistic.
+For the same reason, the opposite view of fallible access to error-ridden knowledge is deeply optimistic;
+the error in the knowledge, our recognition of it and the process of its acquisition is what enables the possibility (but never a guarantee) of unlimited growth of knowledge.
 
 ## 2. The Central Role of Problem in Epistemology
 
