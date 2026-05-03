@@ -281,6 +281,26 @@ conceptually, it would indeed be violance to reason.
 
 ## 2. The Central Role of Problem in Epistemology
 
+As seen [above](#1-the-role-of-error-in-epistemology), error plays a deep and pervasive role in Popperian epistemology of fallibilism.
+It enables the possibility of acquiring and improving upon knowledge, however fallibly.
+But the concept of error does not explain how knowledge is in fact acquired and improved upon.
+That is explained by the twin concepts of conjecture and criticism.
+We fallibly conjecture new knowledge (i.e. such conjectures might contain errors or might even be wholly false)
+and proceed fallibly to criticize it with a view to expose and correct any errors it might have
+(i.e. we our criticisms may fail to expose errors in the conjectures or the criticisms might themselves contain errors).
+But a series of such conjectures and criticisms, we might come (or fail to come) to acquire some knowledge that we may provisionally be unable to criticise further.
+Such fallible knowledge that has survived our best efforts at criticism may be taken as seriously as anything else that may be taken seriously, becuase there is simply no better alternative.
+
+This process of conjecture and criticism does not happen in a vaccuum.
+It happens in the context of existing background knowledge.
+In fact it happens only ever in the presence of a _problem_.
+
+The concept of problem plays a central role in Popperian epistemology of fallibilism.
+It acts as both a guiding principle and a motivating force that drives the process of conjecture and critisim.
+Without a problem, there nothing conjecture about; hence, nothing to criticize.
+Thus, problem provides the context in which the conjectures and their criticism play out,
+while error provides the backdrop.
+
 TODO
 
 ## 3. Fallibilism of Fallibilism
