@@ -195,8 +195,8 @@ but it is never recognized to be free of error.
 The _process_ of stumbling upon truth, the _recognition_ that it is true, and most importantly, the _trueness_ (verity?) of it, are all prone to error.
 Such recognized truth (yet riddled with error) may be called a _conjecture_.
 A conjecture may contain some truth, but it may never be completely true in the sense of being free of error.
-As an extreme case, we may concede the possibility that some conjectures might indeed be fully true and completely free of error;
-but it cannot be recongnized and known to be so, infallibly.
+As an extreme case, we may concede the possibility that some conjectures may indeed be fully true and completely free of error;
+but it cannot be recognised and known to be so, infallibly.
 I.e. if we encounter a conjecture that is completely error-free truth, we cannot know it to be so without error.
 
 We then proceed to criticize all these aspects (process, recognition, trueness etc.), for all possible errors that we can think of, to the best of our abilities.
