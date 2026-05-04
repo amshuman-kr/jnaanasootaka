@@ -270,11 +270,11 @@ the error in the knowledge, our recognition of it and the process of its acquisi
 
 Regardless of the truth or viability of the idea of infallible access to error-free truth,
 it is inferior for a second-order socio-ethical reason.
-Once we admit to the possibility of infallible access to error-free truth,
-we must admit to the possibility of some of us gaining such access, or at least, thinking that they have it.
+Once we concede the possibility of infallible access to error-free truth,
+we must concede the possibility of some of us gaining such access, or at least, thinking that they have it.
 If someone disputes the trueness of such truth or our access to it,
 there is no rational recourse, by definition (of error-free and infallible knowledge), apart from asserting the folly of such opposition.
-No resolution is possible other than blatant use of force or violance,
+No resolution is possible other than blatant use of force, domination, or violance,
 unless we are rescued by some equally mystical and impossible intervention of infallibility.
 Such an intervention of infallibility would hardly be better than violance;
 conceptually, it would indeed be violance to reason.
