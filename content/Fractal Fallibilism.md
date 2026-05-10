@@ -47,9 +47,9 @@ This article is published in English originally and has not been translated to K
 
 ## Abstract
 
-This article on [Popperian](https://en.wikipedia.org/wiki/Karl_Popper) [epistemology](https://en.wikipedia.org/wiki/Epistemology) of [fallibilism](https://en.wikipedia.org/wiki/Fallibilism) is largely inspired by the article [_Sākṣī and the epistemic grounding of knowledge_](https://www.brhat.in/dhiti/sak-i-and-the-epistemic-grounding-of-knowledge) by [Ajey Pai](https://www.brhat.in/dhiti?author=ajey-pai) published in the portal [Bṛhat](https://www.brhat.in).
+This article on [Popperian](https://en.wikipedia.org/wiki/Karl_Popper) [epistemology](https://en.wikipedia.org/wiki/Epistemology) of [fallibilism](https://en.wikipedia.org/wiki/Fallibilism) is motivated by the article [_Sākṣī and the epistemic grounding of knowledge_](https://www.brhat.in/dhiti/sak-i-and-the-epistemic-grounding-of-knowledge) by [Ajey Pai](https://www.brhat.in/dhiti?author=ajey-pai) published in the portal [Bṛhat](https://www.brhat.in).
 
-In responding to that article here, I will try to
+As a part of the response to that article, I will try to
 
 - clarify and contextualize the scope of the epistemology of fallibilism
   - in its expanse - e.g. how knowledge is aquired and improved in its most general sense
@@ -70,12 +70,12 @@ Fallibilism inverts the assumption implicit in many non-fallibilistic approaches
 Popper has called this [the doctrine of manifest truth and conspiracy theories of ignorance](https://thelivinglib.org/on-conspiracy-theories-of-ignorance/).
 In contrast, fallibilism posits that error is the natural state of affairs and it is the aquisition of what meagre knowledge of truth (however fallibly) that requires explanation.
 This is a shift in mindset that has deep implications.
-This will be the [first](#1-the-role-of-error-in-epistemology) thread explored.
+This will be the expored in [1. The Role of Error in Epistemology](#1-the-role-of-error-in-epistemology).
 
 While the concept of error acts as a backdrop for the epistemology of fallibilism,
 the concept of _problem_ plays a central role.
 While growth of knowledge is a continual persuite of overcoming error, it always and only ever happens in the context of a problem.
-This will be the [second](#2-the-central-role-of-problem-in-epistemology) thread explored.
+This will be expored in [2. The Central Role of Problem in Epistemology](#2-the-central-role-of-problem-in-epistemology).
 
 The conclusion proceeds to mention the main short-coming of fallibilism.
 > But fallibilism is incomplete.
@@ -100,7 +100,7 @@ This kind of [fractal](https://en.wikipedia.org/wiki/Fractal) nature of fallibil
 that a viable epistemology must not only explain how and why knowledge can be aquired and improved upon,
 but also how it may fail to be aquired or improved upon.
 Many non-fallibilistic solutions fail to solve both the sides of this problem.
-This will be the [third](#3-fallibilism-of-fallibilism) thread explored.
+This will be explored in [3. Fallibilism of Fallibilism](#3-fallibilism-of-fallibilism).
 
 > A chain of knowledge-episodes with no subject to whom they appear is not knowledge in revision. It is just a sequence of unwitnessed computations.
 
@@ -113,7 +113,7 @@ Contrary to the claim above, Karl Popper has argued that _knowledge without a kn
 So, fallibilism _is_ complete in the sense that it does explain all the aspects _necessary_ for knowledge to be acquired and improved.
 It is, in fact, the _only known_ necessary mechanism that makes growth of knowledge possible;
 in humans and elsewhere (including, possibly, in non-conscious contexts).
-This will be the [fourth](#4-knowledge-with-or-without-a-knowing-subject) thread explored.
+This will be explored in [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject).
 
 Finally, the conclusion proposes that Dvaita vedānta completes the incompleteness of fallibilism.
 > Dvaita vedānta supplies what fallibilism omits.
@@ -122,7 +122,7 @@ Finally, the conclusion proposes that Dvaita vedānta completes the incompletene
 There are a few aspects of this needs examination.
 
 1. Dvaita vedānta addresses epistemology in the conscious cognitive context, but not in the non-conscious context (without a knowing subject).
-This is explored in the [fourth](#4-knowledge-with-or-without-a-knowing-subject) thread mentioned above.
+This is explored in [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject).
 1. Is Dvaita vedānta's explanation coherent in itself?
 1. How well do the assumptions and assertions implicit and explicit in Dvaita vedānta's explanation survive scrutiny?
 
@@ -131,22 +131,22 @@ For example,
 
 Sākṣī itself may or may not be accessible to critical scrutiny, but can the concept of sākṣī and its role and status in epistemology be subject to criticism?
 
-These will be the [fifth](#5-critical-analysis-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context) thread explored.
+These will be explored in [5. Critical Analysis of Dvaita Vedānta's Explanation for Epistemology in the Conscious Context](#5-critical-analysis-of-dvaita-vedāntas-explanation-for-epistemology-in-the-conscious-context).
 
 > It[sākṣī] simply identifies the condition without which criticism itself has no subject and correction has no meaning (the condition that Popper's epistemology deliberately set aside and never recovered...).
 
 The condition for criticism having a subject and correction having meaning is indeed deliberately set aside in Popperian epistemology.
-Why setting it aside and leaving its recovery for future progress is a productive approach to solving the problems in epistemology is discussed in the [third](#3-fallibilism-of-fallibilism) and [fourth](#4-knowledge-with-or-without-a-knowing-subject) threads mentioned above.
+Why setting it aside and leaving its recovery for future progress is a productive approach to solving the problems in epistemology is discussed in [3. Fallibilism of Fallibilism](#3-fallibilism-of-fallibilism) and [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject).
 
 > Fallibilism operates within this structure[of cognitive infrastructure]. It has always operated within this structure.
 
-This will be contextualised in the [fourth](#4-knowledge-with-or-without-a-knowing-subject) thread mentioned above.
+This will be contextualised in [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject).
 
 > It just has not said so[to be operating in the context of cognitive infrastructure].
 
-This is demonstrably false. Popperian epistemology explicitly calls this out in the context of growth of knowledge in humans. This is discussed in the [third](#3-fallibilism-of-fallibilism) and [fourth](#4-knowledge-with-or-without-a-knowing-subject) threads mentioned above.
+This is demonstrably false. Popperian epistemology explicitly calls this out in the context of growth of knowledge in humans. This is discussed in [3. Fallibilism of Fallibilism](#3-fallibilism-of-fallibilism) and [4. Knowledge with or without a Knowing Subject](#4-knowledge-with-or-without-a-knowing-subject).
 
-Finally, the [last](#6-need-for-further-work-in-neurology-and-psychology-of-fallibilistic-epistemology-in-humans) thread will explore what daunting future work is required in neurology and psychology to fill the gaps in our understanding of how conjectures and their criticisms arise and play out in the field of the human mind.
+Finally, [6. Need for Further Work in Neurology and Psychology of Fallibilistic Epistemology in Humans](#6-need-for-further-work-in-neurology-and-psychology-of-fallibilistic-epistemology-in-humans) will explore what daunting future work is required in neurology and psychology to fill the gaps in our understanding of how conjectures and their criticisms arise and play out in the field of the human mind.
 
 ### Note
 
@@ -195,8 +195,8 @@ but it is never recognized to be free of error.
 The _process_ of stumbling upon truth, the _recognition_ that it is true, and most importantly, the _trueness_ (verity?) of it, are all prone to error.
 Such recognized truth (yet riddled with error) may be called a _conjecture_.
 A conjecture may contain some truth, but it may never be completely true in the sense of being free of error.
-As an extreme case, we may concede the possibility that some conjectures may indeed be fully true and completely free of error;
-but it cannot be recognised and known to be so, infallibly.
+As an extreme case, we may concede the possibility that some conjectures might indeed be fully true and completely free of error;
+but they cannot be recongnized and known to be so, infallibly.
 I.e. if we encounter a conjecture that is completely error-free truth, we cannot know it to be so without error.
 
 We then proceed to criticize all these aspects (process, recognition, trueness etc.), for all possible errors that we can think of, to the best of our abilities.
@@ -242,7 +242,7 @@ It merely makes the theory realistic as against something unrealistic that what 
 - _Unnecessary_, because, as Karl Popper shows, fallible process of correcting errors in knowledge is enough to produce unlimited progress of knowledge acquisition and improvement.
 Infallible access to error-free truth is not just unavailable; it is wholly unnecessary to make epistemological progress.
 
-That infallible access to error-free truth is _undesirable_ is counter-intuitive.
+It may not be obvious why infallible access to error-free truth is _undesirable_.
 The opposite idea of infallible access to truth seems eminently desirable.
 But idea of infallible access to error-free truth leads to one of two possibilities, regarding the limits to such access and the scope of such truths.
 
@@ -262,7 +262,7 @@ However, it may be considered an equally pessimistic extreme.
 The concept of ultimate truth may itself be considered a limit to the epistemological progress.
 Besides, the ultimate truth once acquired, must necessarily include the truth about the infallibility of our access to it.
 The the circularity in this kind of reasoning mirrors the theological explanation of _God as the ultimate or uncaused cause_.
-Both are an abandonment of rationality and deeply unsatisfactory.
+Both abandon rationality in ways that are deeply unsatisfactory and unhelpful in the pursuit of truth.
 
 So, eitherway, the idea of infallible access to error-free truth is deeply undesirable and pessimistic.
 For the same reason, the opposite view of fallible access to error-ridden knowledge is deeply optimistic;
@@ -297,8 +297,8 @@ In fact it happens only ever in the presence of a _problem_.
 
 The concept of problem plays a central role in Popperian epistemology of fallibilism.
 It acts as both a guiding principle and a motivating force that drives the process of conjecture and critisim.
-Without a problem, there nothing conjecture about; hence, nothing to criticize.
-Thus, problem provides the context in which the conjectures and their criticism play out,
+Without a problem, there is nothing to conjecture about; hence, nothing to criticize.
+Thus, problem provides the locus of knowledge and error at which the conjectures and their criticism play out,
 while error provides the backdrop.
 
 TODO
