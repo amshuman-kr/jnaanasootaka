@@ -287,7 +287,7 @@ But the concept of error does not explain how knowledge is in fact acquired and 
 That is explained by the twin concepts of conjecture and criticism.
 We fallibly conjecture new knowledge (i.e. such conjectures might contain errors or might even be wholly false)
 and proceed fallibly to criticize it with a view to expose and correct any errors it might have
-(i.e. we our criticisms may fail to expose errors in the conjectures or the criticisms might themselves contain errors).
+(i.e. our criticisms may fail to expose errors in the conjectures or the criticisms might themselves contain errors).
 But a series of such conjectures and criticisms, we might come (or fail to come) to acquire some knowledge that we may provisionally be unable to criticise further.
 Such fallible knowledge that has survived our best efforts at criticism may be taken as seriously as anything else that may be taken seriously, becuase there is simply no better alternative.
 
