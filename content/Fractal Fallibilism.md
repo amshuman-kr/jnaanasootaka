@@ -288,18 +288,55 @@ That is explained by the twin concepts of conjecture and criticism.
 We fallibly conjecture new knowledge (i.e. such conjectures might contain errors or might even be wholly false)
 and proceed fallibly to criticize it with a view to expose and correct any errors it might have
 (i.e. our criticisms may fail to expose errors in the conjectures or the criticisms might themselves contain errors).
-But a series of such conjectures and criticisms, we might come (or fail to come) to acquire some knowledge that we may provisionally be unable to criticise further.
+By a series of such conjectures and criticisms, we might come (or fail to come) to acquire some knowledge that we may provisionally be unable to criticise further.
 Such fallible knowledge that has survived our best efforts at criticism may be taken as seriously as anything else that may be taken seriously, becuase there is simply no better alternative.
 
 This process of conjecture and criticism does not happen in a vaccuum.
 It happens in the context of existing background knowledge.
-In fact it happens only ever in the presence of a _problem_.
+In fact, it happens only ever in the presence of a _problem_.
 
 The concept of problem plays a central role in Popperian epistemology of fallibilism.
 It acts as both a guiding principle and a motivating force that drives the process of conjecture and critisim.
 Without a problem, there is nothing to conjecture about; hence, nothing to criticize.
-Thus, problem provides the locus of knowledge and error at which the conjectures and their criticism play out,
+Thus, problem provides the locus of knowledge and error where the conjectures and their criticism play out,
 while error provides the backdrop.
+
+A problem is a conflict between existing pieces of knowledge.
+Please note that this already assumes existence of prior knowledge;
+If there is no existing knowledge, epistemology itself has no subject matter.
+If there is no problem, there is nothing to improve upon.
+In either case, epistemology is irrelevant.
+So, even the possibility of acquiring new knowledge or improving upon existing knowledge (they are really just the same thing),
+in other words, the possibility of epistemology, is only when there is a problem in existing knowledge.
+
+When there is a problem in existing pieces of knowledge, we may proceed in multiple directions in conjecturing a solution.
+The following list of possibilities is by no means exhaustive.
+
+1. A minor tweak of one or more of the conflicting pieces of knowledge.
+The [discovery of the planet Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune) might be a good example of this.
+1. A major revision of one or more of the conflicting pieces of knowledge.
+The following might be good examples of this.
+   - [Neo-Darwinism](https://en.wikipedia.org/wiki/Neo-Darwinism), the modern revision of [Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)ian evolution
+   - [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)'s [Church-Turing-Deutsch principle](https://en.wikipedia.org/wiki/Church–Turing–Deutsch_principle), an improvement on the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis) underlying the field of Quantum Computation
+1. A bold conjecture to replace a larger body of knowledge that undergirds some of the conflicting pieces of knowledge.
+The following might be good examples of this.
+   - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)'s [General Relativity](https://en.wikipedia.org/wiki/General_relativity)
+   - [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)'s [Theory of Evolution](https://en.wikipedia.org/wiki/Darwinism)
+   - [Hugh Everett](https://en.wikipedia.org/wiki/Hugh_Everett_III)'s [Many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) of Quantum Mechanics
+   - Popperian epistemology of fallibilism
+   - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) and [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)'s [thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis) in [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation)
+1. The problem is shown to be unsolvable.
+The following might be good examples of this.
+   - [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_Gödel)'s [Incompleteness Theorems](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems)
+   - Alan Turing's [Halting problem](https://en.wikipedia.org/wiki/Halting_problem) in computability theory
+1. The perceived conflict in existing pieces knowledge is a false one; thus, showing that the problem really does not exist.
+The examples of this are abundant and vary from the mundane to the profound.
+
+   - Waking up from a bad dream
+   - A speck of dust in a telescope lens mistaken for a heavely object
+   - The popular mistaking of democracy as a mediocre solution for the problem of who should rule (it is a solution for a different problem of how to remove bad rulers without violence, before they can do too much damage) - Karl Popper's [The Open Society and Its Enemies](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies)
+   - [Problem of induction](https://en.wikipedia.org/wiki/Problem_of_induction) in epistemology - Karl Popper's [The Logic of Scientific Discovery](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery)
+   - [Wave-particle duality](https://en.wikipedia.org/wiki/Wave–particle_duality), [wave function collapse](https://en.wikipedia.org/wiki/Wave_function_collapse) - Everettian quantum theory 
 
 TODO
 
